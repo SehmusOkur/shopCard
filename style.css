@@ -1,0 +1,76 @@
+
+
+/* img boyutu */
+.ig{
+    width: 250px;
+    height: 250px;
+    border-radius: 20%;
+    padding-right: 20px ;
+    border: none;
+    float: left;
+}
+/* arka plan */
+/* Ana ürün kartı */
+.product-card {
+    width: 650px;
+    height: 300px;
+    margin: 120px auto;
+    padding: 2px;
+    gap: 50px;
+    background-color: rgb(242, 247, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    box-shadow: 0px 15px 75px black ;
+}
+/* yıldızları yanla */
+.product-info{
+    
+  
+}
+.st ul {
+    display: flex;
+    justify-content: center;
+    list-style: none; 
+    float: left;
+    
+    gap: 10px;
+    color: blue;
+    /* flex-direction:row; */
+}
+
+   
+
+/* paragraf renk */
+.st1{
+    color:rgb(122, 118, 118);
+    display: flex;
+    
+}
+
+/* ***************** */
+.bttm{
+   color: black;
+}
+.bttm p{
+    color: green;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color:white;
+    background-color: blue;
+
+}
+button:hover{
+    background-color: antiquewhite;
+    color: black;
+}
+
+.lm{
+    
+}
